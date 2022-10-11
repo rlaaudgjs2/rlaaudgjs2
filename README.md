@@ -1,3 +1,5 @@
+![MyungHun GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudgjs2&show_icons=true&theme=radical)
+
 
 
 # 💪Skills
