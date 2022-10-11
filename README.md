@@ -1,5 +1,6 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?![rlaaudgjs2GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudgjs2 &show_icons=true&theme=radical)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+![rlaaudgjs2GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaaudgjs2 &show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmh10040)](https://solved.ac/kmh10040/)
 # 💪Skills
 ### Platforms & Languages
