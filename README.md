@@ -1,4 +1,4 @@
-
+[My blog](https://rlaaudgjs2.tistory.com/)
 
 
 # 💪Skills
